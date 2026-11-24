@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-0",
+    "source": "campus-handbook.md#faq-0",
+    "en": "library hours",
+    "hi": "पुस्तकालय का समय",
+    "hinglish": "library kab khulti hai",
+    "question": "When is the library open",
+    "english": "Weekdays, 09:00–18:00.",
+    "hindi": "कार्यदिवसों में 09:00–18:00 बजे।"
+  },
+  {
+    "id": "faq-1",
+    "source": "campus-handbook.md#faq-1",
+    "en": "hostel office",
+    "hi": "छात्रावास कार्यालय",
+    "hinglish": "hostel office kahan hai",
+    "question": "Where is the hostel office",
+    "english": "Ground floor, Hall B.",
+    "hindi": "हॉल बी की भूतल मंज़िल पर।"
+  },
+  {
+    "id": "faq-2",
+    "source": "campus-handbook.md#faq-2",
+    "en": "exam forms",
+    "hi": "परीक्षा फॉर्म",
+    "hinglish": "exam form kahan milega",
+    "question": "Where can I get exam forms",
+    "english": "Use the student portal.",
+    "hindi": "छात्र पोर्टल का उपयोग करें।"
+  },
+  {
+    "id": "faq-3",
+    "source": "campus-handbook.md#faq-3",
+    "en": "bus pass",
+    "hi": "बस पास",
+    "hinglish": "bus pass kaise milega",
+    "question": "How do I get a bus pass",
+    "english": "Visit the transport desk with student ID.",
+    "hindi": "छात्र पहचान पत्र लेकर परिवहन डेस्क जाएँ।"
+  },
+  {
+    "id": "faq-4",
+    "source": "campus-handbook.md#faq-4",
+    "en": "wifi help",
+    "hi": "वाईफाई सहायता",
+    "hinglish": "wifi madad",
+    "question": "Who helps with campus WiFi",
+    "english": "Contact the IT desk in Room 12.",
+    "hindi": "कक्ष 12 के आईटी डेस्क से संपर्क करें।"
+  },
+  {
+    "id": "faq-5",
+    "source": "campus-handbook.md#faq-5",
+    "en": "sports fees",
+    "hi": "खेल शुल्क",
+    "hinglish": "sports fees kitni hai",
+    "question": "How much is the sports fee",
+    "english": "The annual fee is INR 200.",
+    "hindi": "वार्षिक शुल्क 200 रुपये है।"
+  }
+]

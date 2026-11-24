@@ -1,0 +1,344 @@
+{
+  "automated_gates_pass": true,
+  "metrics": {
+    "cases": 30,
+    "answer_accuracy": 1,
+    "citation_exact": 1,
+    "recall_at_5": 1.0,
+    "grounded_answer_exact": 1,
+    "refusal": 1,
+    "concurrent_accuracy": 1,
+    "p50_ms": 7.253163999990875,
+    "p95_ms": 13.259946999994554,
+    "records": 6,
+    "source_bytes": 2228,
+    "concurrent_readers": 50,
+    "golden_sha256": "9dd60169148a762c6a33192c2d7a546f596c78b59ec927e6ec145552a868c8dd"
+  },
+  "observations": [
+    {
+      "question": "library hours",
+      "status": "answered",
+      "answer": "Weekdays, 09:00–18:00.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-0",
+          "source": "campus-handbook.md#faq-0"
+        }
+      ]
+    },
+    {
+      "question": "पुस्तकालय का समय",
+      "status": "answered",
+      "answer": "कार्यदिवसों में 09:00–18:00 बजे।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-0",
+          "source": "campus-handbook.md#faq-0"
+        }
+      ]
+    },
+    {
+      "question": "library kab khulti hai",
+      "status": "answered",
+      "answer": "कार्यदिवसों में 09:00–18:00 बजे।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-0",
+          "source": "campus-handbook.md#faq-0"
+        }
+      ]
+    },
+    {
+      "question": "When is the library open?",
+      "status": "answered",
+      "answer": "Weekdays, 09:00–18:00.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-0",
+          "source": "campus-handbook.md#faq-0"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal library hours",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "hostel office",
+      "status": "answered",
+      "answer": "Ground floor, Hall B.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-1",
+          "source": "campus-handbook.md#faq-1"
+        }
+      ]
+    },
+    {
+      "question": "छात्रावास कार्यालय",
+      "status": "answered",
+      "answer": "हॉल बी की भूतल मंज़िल पर।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-1",
+          "source": "campus-handbook.md#faq-1"
+        }
+      ]
+    },
+    {
+      "question": "hostel office kahan hai",
+      "status": "answered",
+      "answer": "हॉल बी की भूतल मंज़िल पर।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-1",
+          "source": "campus-handbook.md#faq-1"
+        }
+      ]
+    },
+    {
+      "question": "Where is the hostel office?",
+      "status": "answered",
+      "answer": "Ground floor, Hall B.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-1",
+          "source": "campus-handbook.md#faq-1"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal hostel office",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "exam forms",
+      "status": "answered",
+      "answer": "Use the student portal.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-2",
+          "source": "campus-handbook.md#faq-2"
+        }
+      ]
+    },
+    {
+      "question": "परीक्षा फॉर्म",
+      "status": "answered",
+      "answer": "छात्र पोर्टल का उपयोग करें।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-2",
+          "source": "campus-handbook.md#faq-2"
+        }
+      ]
+    },
+    {
+      "question": "exam form kahan milega",
+      "status": "answered",
+      "answer": "छात्र पोर्टल का उपयोग करें।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-2",
+          "source": "campus-handbook.md#faq-2"
+        }
+      ]
+    },
+    {
+      "question": "Where can I get exam forms?",
+      "status": "answered",
+      "answer": "Use the student portal.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-2",
+          "source": "campus-handbook.md#faq-2"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal exam forms",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "bus pass",
+      "status": "answered",
+      "answer": "Visit the transport desk with student ID.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-3",
+          "source": "campus-handbook.md#faq-3"
+        }
+      ]
+    },
+    {
+      "question": "बस पास",
+      "status": "answered",
+      "answer": "छात्र पहचान पत्र लेकर परिवहन डेस्क जाएँ।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-3",
+          "source": "campus-handbook.md#faq-3"
+        }
+      ]
+    },
+    {
+      "question": "bus pass kaise milega",
+      "status": "answered",
+      "answer": "छात्र पहचान पत्र लेकर परिवहन डेस्क जाएँ।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-3",
+          "source": "campus-handbook.md#faq-3"
+        }
+      ]
+    },
+    {
+      "question": "How do I get a bus pass?",
+      "status": "answered",
+      "answer": "Visit the transport desk with student ID.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-3",
+          "source": "campus-handbook.md#faq-3"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal bus pass",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "wifi help",
+      "status": "answered",
+      "answer": "Contact the IT desk in Room 12.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-4",
+          "source": "campus-handbook.md#faq-4"
+        }
+      ]
+    },
+    {
+      "question": "वाईफाई सहायता",
+      "status": "answered",
+      "answer": "कक्ष 12 के आईटी डेस्क से संपर्क करें।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-4",
+          "source": "campus-handbook.md#faq-4"
+        }
+      ]
+    },
+    {
+      "question": "wifi madad",
+      "status": "answered",
+      "answer": "कक्ष 12 के आईटी डेस्क से संपर्क करें।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-4",
+          "source": "campus-handbook.md#faq-4"
+        }
+      ]
+    },
+    {
+      "question": "Who helps with campus WiFi?",
+      "status": "answered",
+      "answer": "Contact the IT desk in Room 12.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-4",
+          "source": "campus-handbook.md#faq-4"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal wifi help",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "sports fees",
+      "status": "answered",
+      "answer": "The annual fee is INR 200.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-5",
+          "source": "campus-handbook.md#faq-5"
+        }
+      ]
+    },
+    {
+      "question": "खेल शुल्क",
+      "status": "answered",
+      "answer": "वार्षिक शुल्क 200 रुपये है।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-5",
+          "source": "campus-handbook.md#faq-5"
+        }
+      ]
+    },
+    {
+      "question": "sports fees kitni hai",
+      "status": "answered",
+      "answer": "वार्षिक शुल्क 200 रुपये है।",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-5",
+          "source": "campus-handbook.md#faq-5"
+        }
+      ]
+    },
+    {
+      "question": "How much is the sports fee?",
+      "status": "answered",
+      "answer": "The annual fee is INR 200.",
+      "method": "bilingual alias",
+      "citations": [
+        {
+          "id": "faq-5",
+          "source": "campus-handbook.md#faq-5"
+        }
+      ]
+    },
+    {
+      "question": "how to appeal sports fees",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    }
+  ]
+}

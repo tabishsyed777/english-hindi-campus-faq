@@ -1,0 +1,200 @@
+[
+  {
+    "q": "library hours",
+    "a": "Weekdays, 09:00–18:00.",
+    "ids": [
+      "faq-0"
+    ]
+  },
+  {
+    "q": "पुस्तकालय का समय",
+    "a": "कार्यदिवसों में 09:00–18:00 बजे।",
+    "ids": [
+      "faq-0"
+    ]
+  },
+  {
+    "q": "library kab khulti hai",
+    "a": "कार्यदिवसों में 09:00–18:00 बजे।",
+    "ids": [
+      "faq-0"
+    ]
+  },
+  {
+    "q": "When is the library open?",
+    "a": "Weekdays, 09:00–18:00.",
+    "ids": [
+      "faq-0"
+    ]
+  },
+  {
+    "q": "how to appeal library hours",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "hostel office",
+    "a": "Ground floor, Hall B.",
+    "ids": [
+      "faq-1"
+    ]
+  },
+  {
+    "q": "छात्रावास कार्यालय",
+    "a": "हॉल बी की भूतल मंज़िल पर।",
+    "ids": [
+      "faq-1"
+    ]
+  },
+  {
+    "q": "hostel office kahan hai",
+    "a": "हॉल बी की भूतल मंज़िल पर।",
+    "ids": [
+      "faq-1"
+    ]
+  },
+  {
+    "q": "Where is the hostel office?",
+    "a": "Ground floor, Hall B.",
+    "ids": [
+      "faq-1"
+    ]
+  },
+  {
+    "q": "how to appeal hostel office",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "exam forms",
+    "a": "Use the student portal.",
+    "ids": [
+      "faq-2"
+    ]
+  },
+  {
+    "q": "परीक्षा फॉर्म",
+    "a": "छात्र पोर्टल का उपयोग करें।",
+    "ids": [
+      "faq-2"
+    ]
+  },
+  {
+    "q": "exam form kahan milega",
+    "a": "छात्र पोर्टल का उपयोग करें।",
+    "ids": [
+      "faq-2"
+    ]
+  },
+  {
+    "q": "Where can I get exam forms?",
+    "a": "Use the student portal.",
+    "ids": [
+      "faq-2"
+    ]
+  },
+  {
+    "q": "how to appeal exam forms",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "bus pass",
+    "a": "Visit the transport desk with student ID.",
+    "ids": [
+      "faq-3"
+    ]
+  },
+  {
+    "q": "बस पास",
+    "a": "छात्र पहचान पत्र लेकर परिवहन डेस्क जाएँ।",
+    "ids": [
+      "faq-3"
+    ]
+  },
+  {
+    "q": "bus pass kaise milega",
+    "a": "छात्र पहचान पत्र लेकर परिवहन डेस्क जाएँ।",
+    "ids": [
+      "faq-3"
+    ]
+  },
+  {
+    "q": "How do I get a bus pass?",
+    "a": "Visit the transport desk with student ID.",
+    "ids": [
+      "faq-3"
+    ]
+  },
+  {
+    "q": "how to appeal bus pass",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "wifi help",
+    "a": "Contact the IT desk in Room 12.",
+    "ids": [
+      "faq-4"
+    ]
+  },
+  {
+    "q": "वाईफाई सहायता",
+    "a": "कक्ष 12 के आईटी डेस्क से संपर्क करें।",
+    "ids": [
+      "faq-4"
+    ]
+  },
+  {
+    "q": "wifi madad",
+    "a": "कक्ष 12 के आईटी डेस्क से संपर्क करें।",
+    "ids": [
+      "faq-4"
+    ]
+  },
+  {
+    "q": "Who helps with campus WiFi?",
+    "a": "Contact the IT desk in Room 12.",
+    "ids": [
+      "faq-4"
+    ]
+  },
+  {
+    "q": "how to appeal wifi help",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "sports fees",
+    "a": "The annual fee is INR 200.",
+    "ids": [
+      "faq-5"
+    ]
+  },
+  {
+    "q": "खेल शुल्क",
+    "a": "वार्षिक शुल्क 200 रुपये है।",
+    "ids": [
+      "faq-5"
+    ]
+  },
+  {
+    "q": "sports fees kitni hai",
+    "a": "वार्षिक शुल्क 200 रुपये है।",
+    "ids": [
+      "faq-5"
+    ]
+  },
+  {
+    "q": "How much is the sports fee?",
+    "a": "The annual fee is INR 200.",
+    "ids": [
+      "faq-5"
+    ]
+  },
+  {
+    "q": "how to appeal sports fees",
+    "a": null,
+    "ids": []
+  }
+]

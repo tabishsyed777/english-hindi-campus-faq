@@ -1,0 +1,26 @@
+{
+  "coverage_in_process_main_thread": {
+    "core.py": {
+      "hit": 44,
+      "executable": 84,
+      "fraction": 0.524
+    },
+    "common.py": {
+      "hit": 3,
+      "executable": 6,
+      "fraction": 0.5
+    },
+    "domain.py": {
+      "hit": 7,
+      "executable": 13,
+      "fraction": 0.538
+    }
+  },
+  "scale_records": 606,
+  "scale_exact_answer_and_citations": 1.0,
+  "scale_p95_ms": 4.219982999984495,
+  "peak_traced_bytes_during_validation_and_queries": 416774,
+  "scale_elapsed_seconds": 0.03281387900005939,
+  "tests_run": 12,
+  "skips": 0
+}
